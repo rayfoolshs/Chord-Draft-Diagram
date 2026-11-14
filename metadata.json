@@ -1,0 +1,6 @@
+{
+  "name": "FretDraft — Guitar Chord Diagram Maker",
+  "description": "Interactive SVG guitar chord diagram maker with real-time chord detection, chord library lookup, Karplus-Strong audio preview, progression sheet builder, and PNG, SVG, and Vanilla JS embed export for music educators and learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
